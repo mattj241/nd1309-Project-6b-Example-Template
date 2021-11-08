@@ -11,6 +11,9 @@ v0.5.16
 ### Node Version
 v14.17.0
 
+### Web3 version
+v1.5.3 : However, custom web3.min.js was brought into src/js using Udacity Knowledge as reference: https://knowledge.udacity.com/questions/51037
+
 ### Requirement write-ups : UML
 Please see internal files within:
 
