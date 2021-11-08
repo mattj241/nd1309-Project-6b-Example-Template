@@ -12,7 +12,9 @@ v0.5.16
 v14.17.0
 
 ### Requirement write-ups : UML
-Please see internal files within root/UML
+Please see internal files within:
+
+     root/UML
 
 ### Requirement write-ups : Libraries
 Only usuage of libraries throughout this project came through the provided ROLES library. It simplified the approach in which what user level was allowed to interact with the main smart contract (SupplyChain) to carry-out precise supply chain tracking.
