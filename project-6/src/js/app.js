@@ -1,3 +1,4 @@
+// var truffle_contract = require('./truffle-contract') 
 App = {
     web3Provider: null,
     contracts: {},
@@ -160,6 +161,7 @@ App = {
             case 10:
                 return await App.fetchItemBufferTwo(event);
                 break;
+            
             }
     },
 
